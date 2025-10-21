@@ -18,8 +18,8 @@ html {
   }
   
   .item-1 {
-    grid-column-start: 
-    grid-column-end: 
+    grid-column-start: 1;
+    grid-column-end: 2;
   }
   
   /* .item-2 {
